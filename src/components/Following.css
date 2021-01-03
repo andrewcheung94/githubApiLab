@@ -1,0 +1,32 @@
+.following-conatiner {
+    margin-top: 10px;
+}
+
+.following-name-container {
+    display: flex;
+    flex-direction: row;
+    padding: 4px;
+    align-items: center;
+    margin-left: 2.5%;
+}
+
+a {
+    text-decoration: none;
+}
+
+.user-following-avatar{
+    max-width: 1.7em;
+    max-height: 1.7em;
+    border-radius: 50%;
+}
+
+.following-login {
+    margin-left: .6em;
+    color: black;
+}
+
+
+h2 {
+    margin: 0;
+    padding: 0;
+}
